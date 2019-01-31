@@ -1,0 +1,5 @@
+default:
+  content:
+  - title: Plot of Iris
+    path: ./plot
+    description: plot(iris) and other excitement
